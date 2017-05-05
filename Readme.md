@@ -1,0 +1,1 @@
+## This is support QR encode for android ##
