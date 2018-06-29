@@ -9,5 +9,5 @@
 	}
 
 	dependencies {
-	        compile 'com.github.huyndx:imageencode:-SNAPSHOT'
+	        implementation 'com.github.huyndx:imageencode:-SNAPSHOT'
 	}
